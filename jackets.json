@@ -1,0 +1,114 @@
+[
+    {
+        "style_id": "24406",
+        "category": "Windbreaker",
+        "name": "Dirt Roamer Jacket",
+        "fit": "Slim fit",
+        "features": {
+            "feature1": "Stowable, Helmet-Compatible Hood",
+            "feature2": "Built-In Stow Pocket",
+            "feature3": "Compressible and Packable"
+        },
+        "materials": "Stretchy, Breathable Recycled Shell Fabric",
+        "processes": "Fair Trade",
+        "colour": "Pantone/ Farrow"
+    },
+    {
+        "style_id": "23074",
+        "category": "Windbreaker",
+        "name": "Retro-X Jacket",
+        "fit": "Regular fit",
+        "features": {
+            "feature1": "Zippered Chest and Handwarmer Pockets",
+            "feature2": "Full-Front Zip with Internal Wind Flap",
+            "feature3": "Hip Length"
+        },
+        "materials": "Fleece Exterior/Polyester Mesh Lining with Windproof Barrier",
+        "processes": "Fair Trade",
+        "colour": "Pantone/ Farrow"
+    },
+    {
+        "style_id": "20955",
+        "category": "Insulated Jacket",
+        "name": "Pack In Jacket",
+        "fit": "Regular fit",
+        "features": {
+            "feature1": "Stand-Up Collar for Warmth",
+            "feature2": "Pocket and Stuffsack Details",
+            "feature3": "Elasticized Cuffs and Hem"
+        },
+        "materials": "Water-Resistant Shell with FullRange® Insulation",
+        "processes": "Fair Trade",
+        "colour": "Pantone/ Farrow"
+    },
+    {
+        "style_id": "84267",
+        "category": "Insulated Jacket",
+        "name": "Nano-Air Hoody",
+        "fit": "Slim fit",
+        "features": {
+            "feature1": "Stretchy Hood",
+            "feature2": "Center-Front Zipper",
+            "feature3": "Low-Profile Variable Conditions Cuffs"
+        },
+        "materials": "Stretchy, Breathable, Weather-Resistant Fabric",
+        "processes": "Fair Trade",
+        "colour": "Pantone/ Farrow"
+    },
+    {
+        "style_id": "83775",
+        "category": "Hard Shell",
+        "name": "Pluma Jacket",
+        "fit": "Regular fit",
+        "features": {
+            "feature1": "Helmet-Compatible Hood",
+            "feature2": "Drawcord Hem for One-Handed Operation",
+            "feature3": "Upper-Body Venting"
+        },
+        "materials": "GORE-TEX Pro 3-Layer Alpine Shell",
+        "processes": "Fair Trade",
+        "colour": "Pantone/ Farrow"
+    },
+    {
+        "style_id": "85130",
+        "category": "Hard Shell",
+        "name": "Storm10 Jacket",
+        "fit": "Slim fit",
+        "features": {
+            "feature1": "Easy-Adjust Hood",
+            "feature2": "Full-Length Zipper with Storm Flap",
+            "feature3": "Cuffs and Drawcord Help Seal Out Elements"
+        },
+        "materials": "H2No® Performance Standard Shell",
+        "processes": "Fair Trade",
+        "colour": "Pantone/ Farrow"
+    },
+    {
+        "style_id": "27890",
+        "category": "Rain Jackets",
+        "name": "Hose-Down Slicker Jacket",
+        "fit": "Relaxed fit",
+        "features": {
+            "feature1": "Fixed Hood with Adjustable Drawcord",
+            "feature2": "Internal Wrist Gaskets with Hook-and-loop Closure",
+            "feature3": "Center-front Zipper with Protective, Snap-closure Storm Flap"
+        },
+        "materials": "Waterproof, Abrasion-resistant and Lightweight Construction",
+        "processes": "Fair Trade",
+        "colour": "Pantone/ Farrow"
+    },
+    {
+        "style_id": "28567",
+        "category": "Rain Jacket",
+        "name": "Vosque 3-in-1 Parka",
+        "fit": "Slim fit",
+        "features": {
+            "feature1": "Two-Way-Adjustable Hood",
+            "feature2": "Contoured, Fully Seam-Taped Waterproof Shell",
+            "feature3": "Contoured Zip-Out Parka"
+        },
+        "materials": "Two-layer waterproof/breathable and windproof shell",
+        "processes": "Fair Trade",
+        "colour": "Pantone/ Farrow"
+    }
+]
