@@ -12,10 +12,16 @@ class Jackets:
         self.materials = materials
         self.processes = processes
         self.colour = colour
-    
+    # classmethod: every time json is called, it passes the class along with it
     @classmethod 
+    # pass in json data = json_string
+    # generate a dictionary out of the string -- use json.loads function:
+    # takes a string and converts it to Python data structure
     def from_json(cls, json_string):
         json_dict = json.loads(json_string)
+        # return new instance of the class
+        # cls = instantiate the json objct
+        # pass in everything from dict, use keys as parameters
         return cls(**json_dict)
     
     # representation function to see what happens
